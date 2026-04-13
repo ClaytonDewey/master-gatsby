@@ -61,6 +61,7 @@ typings/
 .env*
 
 # gatsby files
+*.cache
 .cache/
 public
 
